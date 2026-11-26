@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="src/AstarDev.RefactorBudget.Core.TestsUnit/AstarDev.RefactorBudget.Core.TestsUnit.csproj" />
+  <Project Path="src/AstarDev.RefactorBudget.Core/AstarDev.RefactorBudget.Core.csproj" />
+  <Project Path="src/AstarDev.RefactorBudget.Reporting.TestsUnit/AstarDev.RefactorBudget.Reporting.TestsUnit.csproj" />
+  <Project Path="src/AstarDev.RefactorBudget.Reporting/AstarDev.RefactorBudget.Reporting.csproj" />
+  <Project Path="src/AstarDev.SampleProject/AstarDev.SampleProject.csproj" />
+</Solution>
