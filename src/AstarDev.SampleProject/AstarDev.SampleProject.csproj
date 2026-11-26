@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="../AstarDev.RefactorBudget.Core/AstarDev.RefactorBudget.Core.csproj" />
+  </ItemGroup>
+
 </Project>
