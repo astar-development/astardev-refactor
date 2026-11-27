@@ -20,4 +20,8 @@
     <PackageReference Include="xunit.v3.mtp-v2" Version="4.0.3" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\AstarDev.RefactorBudget.Reporting\AstarDev.RefactorBudget.Reporting.csproj" />
+  </ItemGroup>
+
 </Project>

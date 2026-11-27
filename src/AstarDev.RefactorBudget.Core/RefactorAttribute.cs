@@ -1,13 +1,5 @@
 ﻿namespace AstarDev.RefactorBudget.Core;
 
-public enum PainPoint
-{
-    Low,
-    Medium,
-    High,
-    Critical
-}
-
 [AttributeUsage(AttributeTargets.Class | AttributeTargets.Method | AttributeTargets.Property, AllowMultiple = true)]
 public sealed class RefactorAttribute : Attribute
 {
